@@ -2,8 +2,10 @@
 see https://www.gitbook.com/book/canyellwang/leetcodesolutioninjava/details
 
 
-note:
+Note:
+
 Binary tree ---------completed. -2017-04-06
+
 
 Array ---------------completed. -2017-04-07
 
